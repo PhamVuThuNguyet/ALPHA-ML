@@ -1,0 +1,13 @@
+data/cui2vec_pretrained.*
+data/descriptions.csv
+data/cui2vec_pretrained
+data/2021AB
+data/mmsys
+data/config.prop
+
+flaskapp/node_modules/
+flaskapp/app/backend/static/bundle.js
+flaskapp/umls/databases/umls.db
+flaskapp/umls/databases/umls-2021AB-full
+
+Train Notebook.ipynb
